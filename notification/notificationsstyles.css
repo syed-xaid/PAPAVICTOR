@@ -1,0 +1,65 @@
+body{
+  background-color: lightblue;
+}
+.top-container
+{
+  background-color:blue;
+}
+.btn {
+  background: #d93497;
+  background-image: -webkit-linear-gradient(top, #d93497, #2980b9);
+  background-image: -moz-linear-gradient(top, #d93497, #2980b9);
+  background-image: -ms-linear-gradient(top, #d93497, #2980b9);
+  background-image: -o-linear-gradient(top, #d93497, #2980b9);
+  background-image: linear-gradient(to bottom, #d93497, #2980b9);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #d9347e);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #d9347e);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #d9347e);
+  background-image: -o-linear-gradient(top, #3cb0fd, #d9347e);
+  background-image: linear-gradient(to bottom, #3cb0fd, #d9347e);
+  text-decoration: none;
+}
+.home
+{
+padding-left: 50px;
+}
+.frqst
+{
+  padding-left: 100px;
+  margin-top: 15%;
+}
+.notifications
+{
+  padding-left: 100px;
+  margin-top: 15%;
+}
+.example
+{
+  margin-left: 30px;
+}
+.middle-container
+{
+  padding-top:20px;
+text-align:left;
+}
+.submit
+{
+  background-color:blue;
+  color: white;
+}
+.Decline{
+  background-color: grey;
+  color: white;
+}
